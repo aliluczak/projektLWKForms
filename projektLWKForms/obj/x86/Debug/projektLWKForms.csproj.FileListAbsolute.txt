@@ -1,0 +1,12 @@
+C:\Users\AlaV\Documents\notatki infa\LWK\projektLWKForms\projektLWKForms\bin\x86\Debug\projektLWKForms.exe.config
+C:\Users\AlaV\Documents\notatki infa\LWK\projektLWKForms\projektLWKForms\bin\x86\Debug\projektLWKForms.exe
+C:\Users\AlaV\Documents\notatki infa\LWK\projektLWKForms\projektLWKForms\bin\x86\Debug\projektLWKForms.pdb
+C:\Users\AlaV\Documents\notatki infa\LWK\projektLWKForms\projektLWKForms\bin\x86\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\AlaV\Documents\notatki infa\LWK\projektLWKForms\projektLWKForms\bin\x86\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+C:\Users\AlaV\Documents\notatki infa\LWK\projektLWKForms\projektLWKForms\obj\x86\Debug\projektLWKForms.csprojResolveAssemblyReference.cache
+C:\Users\AlaV\Documents\notatki infa\LWK\projektLWKForms\projektLWKForms\obj\x86\Debug\projektLWKForms.csproj.projektLWKForms.exe.config
+C:\Users\AlaV\Documents\notatki infa\LWK\projektLWKForms\projektLWKForms\obj\x86\Debug\projektLWKForms.Form1.resources
+C:\Users\AlaV\Documents\notatki infa\LWK\projektLWKForms\projektLWKForms\obj\x86\Debug\projektLWKForms.Properties.Resources.resources
+C:\Users\AlaV\Documents\notatki infa\LWK\projektLWKForms\projektLWKForms\obj\x86\Debug\projektLWKForms.csproj.GenerateResource.Cache
+C:\Users\AlaV\Documents\notatki infa\LWK\projektLWKForms\projektLWKForms\obj\x86\Debug\projektLWKForms.exe
+C:\Users\AlaV\Documents\notatki infa\LWK\projektLWKForms\projektLWKForms\obj\x86\Debug\projektLWKForms.pdb
